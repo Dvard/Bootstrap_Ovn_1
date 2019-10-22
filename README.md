@@ -19,3 +19,5 @@ ___
 - *tabs* 
 - *tabell*
 - I tab-menyn, länka knappen till *prakticum.fi* 
+
+![Wireframe](wireframe.png)
